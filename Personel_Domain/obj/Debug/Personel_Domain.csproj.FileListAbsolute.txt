@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\bin\Debug\Personel_Domain.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\bin\Debug\Personel_Domain.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\obj\Debug\Personel_Domain.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\obj\Debug\Personel_Domain.csproj.CoreCompileInputs.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\obj\Debug\Personel_Domain.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel_Domain\obj\Debug\Personel_Domain.pdb

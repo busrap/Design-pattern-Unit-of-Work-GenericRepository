@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\Personel.Dal.dll.config
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\Personel.Dal.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\Personel.Dal.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\Personel_Domain.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\Personel_Domain.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\obj\Debug\Personel.Dal.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\obj\Debug\Personel.Dal.csproj.CoreCompileInputs.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\obj\Debug\Personel.Dal.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\Personel.Dal\obj\Debug\Personel.Dal.pdb

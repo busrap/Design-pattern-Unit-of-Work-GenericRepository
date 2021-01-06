@@ -1,0 +1,16 @@
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\0_Personel.UI.exe.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\0_Personel.UI.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\0_Personel.UI.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\Personel.Dal.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\Personel_Domain.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\Personel.Dal.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\Personel.Dal.dll.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\Personel_Domain.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\obj\Debug\0_Personel.UI.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\obj\Debug\0_Personel.UI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\obj\Debug\0_Personel.UI.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\GenericRepository_UnitOfWork\0_Personel.UI\obj\Debug\0_Personel.UI.pdb
